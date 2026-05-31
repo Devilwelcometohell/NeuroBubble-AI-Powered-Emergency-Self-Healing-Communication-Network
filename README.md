@@ -304,7 +304,7 @@ This project will be released under the Apache 2.0 License to encourage communit
 | Name          | Role                      | Contact Information                                         | GitHub Profile                  |
 | ------------- | ------------------------- | ----------------------------------------------------------- | ------------------------------- |
 | Devang Shukla | Project Lead & Developer  | [devangshukla218@gmail.com](mailto:devangshukla218@gmail.com) | [https://github.com/devangshukla](https://github.com/Devilwelcometohell) |
-| Aditya Kumar   | Embedded Systems Engineer | To Be Added                                                 | To Be Added                     |
+| Aditya Kumar   | Embedded Systems Engineer | [adityakumar65348@gmail.com](mailto:adityakumar65348@gmail.com)| [https://github.com/Aditya-KumarEC](https://github.com/Aditya-KumarEC)  |
 
 ---
 
